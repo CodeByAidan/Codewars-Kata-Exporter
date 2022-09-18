@@ -25,7 +25,7 @@
     "erlang": ".erlang",
     "f#": ".fsharp",
     "factor": ".factor",
-    "forth": ".factor",
+    "forth": ".fs",
     "fortran": ".fortran",
     "go": ".go",
     "groovy": ".groovy",
